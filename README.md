@@ -1,10 +1,10 @@
 ---
-app: "Via Verde - app iOS"          # Entre as aspas escreve o nome da app
+app: "Via Verde - iOS"          # Entre as aspas escreve o nome da app
 date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://apps.apple.com/pt/app/via-verde/id674583357"   # Entre as aspas escreve o endereço da app na loja
-a11y_statement: "https://www.viaverde.pt/declaracao-acessibilidade-usabilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade da App. A declaração da App está num URL público
-a11y_statement_date: "dd/mm/aaaa"  # Entre as aspas escreve a data da Declaração de Acessibilidade
-owner: "nome_do_proprietário"         # Entre as aspas escrever o nome do owner da app
+a11y_statement: "https://www.viaverde.pt/declaracao-acessibilidade-usabilidade-ios" # Entre as aspas escreve o URL da Declaração de Acessibilidade da App. A declaração da App está num URL público
+a11y_statement_date: "16/04/2026"  # Entre as aspas escreve a data da Declaração de Acessibilidade
+owner: "Brisa"         # Entre as aspas escrever o nome do owner da app
 seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 validity: "dd/mm/aaaa a dd/mm/aaaa" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
 status: "Auditoria a decorrer" # Entre as aspas escreve uma das seguintes opções: "Auditoria a decorrer", "A aguardar correções da entidade", "Concluído" 
